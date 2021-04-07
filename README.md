@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/jankrzempek/jankrzempek/master/wave.gif" width="30px">
 
 ## My name's Jan Krzempek
 
